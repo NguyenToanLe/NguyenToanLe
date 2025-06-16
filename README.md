@@ -8,6 +8,6 @@ advanced machine learning techniques to tackle complex, real-world challenges.
 
 ### Top Repositories
 [![Car Plate Number Recognition](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=ANPROCR-TF&show_icons=true&theme=shades-of-purple)](https://github.com/NguyenToanLe/ANPROCR-TF)
-[![Object Detection](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=Object_Detection&show_icons=true&theme=shades-of-purple)](https://github.com/NguyenToanLe/Object_Detection)
+[![Object Detection](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=Object-Detection&show_icons=true&theme=shades-of-purple)](https://github.com/NguyenToanLe/Object-Detection)
 [![VAE Palette](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=VAE-Palette&show_icons=true&theme=darcula )](https://github.com/NguyenToanLe/VAE-Palette)
 [![Segmentation for Cataract Surgery](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=segmentation-for-cataract-surgery&show_icons=true&theme=darcula )](https://github.com/NguyenToanLe/segmentation-for-cataract-surgery)

@@ -7,6 +7,7 @@ advanced machine learning techniques to tackle complex, real-world challenges.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenToanLE&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/NguyenToanLe)
 
 ### Top Repositories
+[![Age Gender Predictor](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=Age-Gender-Detection-YOLO&show_icons=true&theme=shades-of-purple)](https://github.com/NguyenToanLe/Age-Gender-Detection-YOLO)
 [![Semantic Book Recommender](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=Semantic-Book-Recommender-HF&show_icons=true&theme=shades-of-purple)](https://github.com/NguyenToanLe/Semantic-Book-Recommender-HF)
 [![Car Plate Number Recognition](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=ANPROCR-TF&show_icons=true&theme=shades-of-purple)](https://github.com/NguyenToanLe/ANPROCR-TF)
 [![Object Detection](https://github-readme-stats.vercel.app/api/pin/?username=NguyenToanLe&repo=Object-Detection&show_icons=true&theme=shades-of-purple)](https://github.com/NguyenToanLe/Object-Detection)
